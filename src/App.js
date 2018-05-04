@@ -46,7 +46,11 @@ const App = (props, state) => (
     </SideBar>
     <MainView>
       <Box>
+<<<<<<< HEAD
         lalalan fue una pelicula
+=======
+        rararan 
+>>>>>>> 72d85bcf12a4fc9073eb15f6fdd296d77a31fbc8
       </Box>
       <Box>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
